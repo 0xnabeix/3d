@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.3be49360.css",
-    "main.js": "./static/js/main.9f6869a7.js",
+    "main.css": "./static/css/main.531d38df.css",
+    "main.js": "./static/js/main.7f4e8c94.js",
     "static/js/27.5e6c119d.chunk.js": "./static/js/27.5e6c119d.chunk.js",
     "static/media/car.gltf": "./static/media/car.cdedaa4bcfcdc4c86965.gltf",
     "static/media/city.fbx": "./static/media/city.d8d49be63b48b8077ca0.fbx",
@@ -13,6 +13,7 @@
     "static/media/land.glb": "./static/media/land.c4cc5ed7502f866ee6dc.glb",
     "static/media/bingdwendwen.glb": "./static/media/bingdwendwen.bd7d37ead8bb47ccaa79.glb",
     "static/media/tiger.gltf": "./static/media/tiger.67f1e8fe58b1c021f2e1.gltf",
+    "static/media/island.glb": "./static/media/island.a411b3fbddd0f46ab718.glb",
     "static/media/flag.glb": "./static/media/flag.73c81d66494359ddbc6e.glb",
     "static/media/Miku.glb": "./static/media/Miku.bafc0aafec53b6d24e8a.glb",
     "static/media/xuerongrong.glb": "./static/media/xuerongrong.2de949bd2eb58f3f9516.glb",
@@ -27,6 +28,7 @@
     "static/media/Head_02_Gloss_2k.jpg": "./static/media/Head_02_Gloss_2k.be3dc25af3ab3516d2b2.jpg",
     "static/media/Shelter.glb": "./static/media/Shelter.227572a0139a49098fde.glb",
     "static/media/bg.png": "./static/media/bg.471dce5a22366b3332a2.png",
+    "static/media/waternormals.jpg": "./static/media/waternormals.537ec85b965d414829ab.jpg",
     "static/media/layer_1.png": "./static/media/layer_1.916822d8067a3de7a780.png",
     "static/media/bg.webp": "./static/media/bg.b9e151067ab056f2c596.webp",
     "static/media/zelda_map.png": "./static/media/zelda_map.20770f9aac12ba701268.png",
@@ -54,6 +56,7 @@
     "static/media/layer_7.png": "./static/media/layer_7.50febf77f6c7efb38a85.png",
     "static/media/layer_3.png": "./static/media/layer_3.1633573a71a0f3b3650d.png",
     "static/media/cycle.png": "./static/media/cycle.80f3dff9d78273707e1d.png",
+    "static/media/flamingo.glb": "./static/media/flamingo.e65cf9438e4210a07dcd.glb",
     "static/media/human.png": "./static/media/human.4db69fcc415d204e08b5.png",
     "static/media/panda.png": "./static/media/panda.87a0852a403360d75600.png",
     "static/media/scan.png": "./static/media/scan.d65cedc8e5c41c779cdb.png",
@@ -83,7 +86,7 @@
     "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/css/main.3be49360.css",
-    "static/js/main.9f6869a7.js"
+    "static/css/main.531d38df.css",
+    "static/js/main.7f4e8c94.js"
   ]
 }
