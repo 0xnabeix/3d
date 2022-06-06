@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.c9383d44.css",
-    "main.js": "./static/js/main.1296cce2.js",
+    "main.js": "./static/js/main.df45ee0a.js",
     "static/js/27.5e6c119d.chunk.js": "./static/js/27.5e6c119d.chunk.js",
     "static/media/car.gltf": "./static/media/car.cdedaa4bcfcdc4c86965.gltf",
     "static/media/city.fbx": "./static/media/city.d8d49be63b48b8077ca0.fbx",
@@ -14,19 +14,22 @@
     "static/media/tiger.gltf": "./static/media/tiger.67f1e8fe58b1c021f2e1.gltf",
     "static/media/island.glb": "./static/media/island.a411b3fbddd0f46ab718.glb",
     "static/media/flag.glb": "./static/media/flag.73c81d66494359ddbc6e.glb",
-    "static/media/earth_normal.png": "./static/media/earth_normal.56fa32262d90a70df5e3.png",
     "static/media/Miku.glb": "./static/media/Miku.bafc0aafec53b6d24e8a.glb",
-    "static/media/clouds.png": "./static/media/clouds.8c900833fd3d8f41b7d9.png",
     "static/media/xuerongrong.glb": "./static/media/xuerongrong.2de949bd2eb58f3f9516.glb",
     "static/media/text.fbx": "./static/media/text.a6b8eb3b3fe823772af7.fbx",
-    "static/media/earth_basic.png": "./static/media/earth_basic.711c5ab5149b964d14db.png",
     "static/media/heart.glb": "./static/media/heart.d6fb3895b74938715330.glb",
     "static/media/Head_02_Diffuse_2k.jpg": "./static/media/Head_02_Diffuse_2k.330c7026d77f1c974363.jpg",
     "static/media/bg.jpg": "./static/media/bg.4440667a0dec85976329.jpg",
+    "static/media/moon_basic.jpeg": "./static/media/moon_basic.082a66e385964b2c2630.jpeg",
+    "static/media/moon_normal.jpeg": "./static/media/moon_normal.d5085fe4ab72b5944dc5.jpeg",
     "static/media/logo.glb": "./static/media/logo.d0ce5d3c50d7caedb0dc.glb",
+    "static/media/earth_normal.jpeg": "./static/media/earth_normal.84f1c5850ed8ec1bf580.jpeg",
     "static/media/Head_02.ctm": "./static/media/Head_02.6c65d8e11c1d36d3d9d3.ctm",
     "static/media/background.png": "./static/media/background.85cf3f86dfe81edc5a15.png",
+    "static/media/clouds.jpeg": "./static/media/clouds.6b2967770126541c780a.jpeg",
     "static/media/Head_02_Gloss_2k.jpg": "./static/media/Head_02_Gloss_2k.be3dc25af3ab3516d2b2.jpg",
+    "static/media/moon_roughness.jpeg": "./static/media/moon_roughness.f64141dfb8f717e725e2.jpeg",
+    "static/media/earth_basic.jpeg": "./static/media/earth_basic.eef61b552b721f82b620.jpeg",
     "static/media/Shelter.glb": "./static/media/Shelter.227572a0139a49098fde.glb",
     "static/media/bg.png": "./static/media/bg.471dce5a22366b3332a2.png",
     "static/media/waternormals.jpg": "./static/media/waternormals.537ec85b965d414829ab.jpg",
@@ -45,7 +48,6 @@
     "static/media/layer_7.png": "./static/media/layer_7.50febf77f6c7efb38a85.png",
     "static/media/zelda_map.png": "./static/media/zelda_map.7de87113a0041e4296c5.png",
     "static/media/layer_3.png": "./static/media/layer_3.1633573a71a0f3b3650d.png",
-    "static/media/earth_rough.png": "./static/media/earth_rough.7deb11ef39a8c8219b27.png",
     "static/media/lunar.png": "./static/media/lunar.01a7fc33e8ffd2927f4f.png",
     "static/media/lensflare0.png": "./static/media/lensflare0.0f76abc7ed1959fe0790.png",
     "static/media/cycle.png": "./static/media/cycle.80f3dff9d78273707e1d.png",
@@ -64,6 +66,7 @@
     "static/media/meta.png": "./static/media/meta.bc80f09ef00bfc4c2a81.png",
     "static/media/olympic.png": "./static/media/olympic.699884a376a02464cccb.png",
     "static/media/ocean.png": "./static/media/ocean.e024229cc3c2f5ea1305.png",
+    "static/media/earth_rough.jpeg": "./static/media/earth_rough.25ef2f179784040a848d.jpeg",
     "static/media/car.png": "./static/media/car.ff69e9cb519f0ad8c57a.png",
     "static/media/earth.png": "./static/media/earth.18588ea5647613315e48.png",
     "static/media/metal.png": "./static/media/metal.e5cc6953a43824df83e7.png",
@@ -91,6 +94,6 @@
   },
   "entrypoints": [
     "static/css/main.c9383d44.css",
-    "static/js/main.1296cce2.js"
+    "static/js/main.df45ee0a.js"
   ]
 }
